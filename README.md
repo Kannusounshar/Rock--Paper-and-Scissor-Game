@@ -6,5 +6,5 @@ Buildwith:
 -CSS
 -JAVASCRIPT
 
-Solution Link: https://github.com/Kannusounshar/Colour-Flipper
-You can view the live project here: https://relaxed-heliotrope-0f2c96.netlify.app/
+Solution Link: https://github.com/Kannusounshar/Rock--Paper-and-Scissor-Game
+You can view the live project here: https://chic-taiyaki-6e0a7a.netlify.app
